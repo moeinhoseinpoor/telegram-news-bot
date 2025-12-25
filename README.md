@@ -1,2 +1,9 @@
 # Telegram News Bot
-این ربات خبرهای اقتصادی را از خبرگزاری‌ها خوانده و به تلگرام ارسال می‌کند.
+
+A Telegram bot that reads RSS feeds from Iranian news agencies
+and publishes new items to a Telegram channel.
+
+- No duplicate links
+- No instant view
+- Title is clickable
+- Source name only
